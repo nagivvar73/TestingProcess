@@ -13,5 +13,6 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm Changing In Main - Rebase Test')
     print_hi('PyCharm Changing In Main - Rebase Test3')
+    print_hi('PyCharm Changing In Main - Rebase Test4')
 
  
