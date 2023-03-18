@@ -15,6 +15,7 @@ if __name__ == '__main__':
     print_hi('PyCharm Changing In Main - Rebase Test3')
     print_hi('PyCharm Changing In Main - Rebase Test4')
     print_hi('PyCharm Changing In Main - Rebase Test5')
+    print_hi('PyCharm Changing In Main - Rebase Test6')
 
 
  
